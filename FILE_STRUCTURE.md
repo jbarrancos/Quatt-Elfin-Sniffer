@@ -6,8 +6,7 @@
 - **`requirements.txt`** - Python dependencies
 
 ## Launchers
-- **`launcher.py`** - Advanced launcher with argument support
-- **`run_ha_sniffer.py`** - Simple launcher for Home Assistant mode
+- **start_sniffer.sh`** - Linux start wrapper for background
 
 ## Documentation
 - **`README.md`** - Project overview and basic setup
