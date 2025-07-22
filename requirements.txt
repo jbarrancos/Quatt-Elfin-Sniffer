@@ -1,0 +1,6 @@
+# Quatt Modbus Sniffer Requirements
+
+# MQTT client for Home Assistant integration (requires 2.0+ for current callback API)
+paho-mqtt>=2.0.0
+
+# pySocks

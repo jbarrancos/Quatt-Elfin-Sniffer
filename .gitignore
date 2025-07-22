@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+
+# Github
+.github/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
